@@ -1,3 +1,13 @@
+---
+
+## License
+
+Copyright (c) 2026 Lisette Kamper-Hinson. All rights reserved.
+
+This project and its contents are the intellectual property of Lisette Kamper-Hinson. 
+No part of this project may be reproduced, distributed, or used without express written 
+permission from the author.
+
 # From Legacy to Modern: A Framework for Diagnosing and Modernizing Data Pipelines for the Data-Driven Workforce
 
 **Lisette M. Kamper-Hinson | M.S. Computer Science, Wake Forest University**
