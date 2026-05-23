@@ -1,0 +1,6 @@
+master_formula_id,product_id,master_formula_code,complexity_level
+100,1,PM200-FLAT-STD,standard
+101,2,PM200-EGGSHELL,standard
+110,3,SP-INTEXT-SATIN,complex
+120,4,DUR-MATTE,standard
+130,5,EMD-SG,complex

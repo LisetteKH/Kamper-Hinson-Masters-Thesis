@@ -1,0 +1,3 @@
+model,r2_train,mae_train,r2_test,mae_test
+ElasticNet,1.0,0.0,-56.45345080155029,0.9815812117975194
+RandomForest,1.0,0.0,-56.45345080155029,0.9815812117975194

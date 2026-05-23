@@ -1,0 +1,4 @@
+variant_id,variant_code,viscosity_class,variant_multiplier
+1000,LV,thin,1.06
+1001,STD,standard,1.0
+1002,HV,thick,0.9
