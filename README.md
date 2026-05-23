@@ -20,7 +20,7 @@ This thesis presents a structured, six-stage framework for modernizing legacy ca
 ## Thesis Poster
 ___
 
-![Thesis Poster](Kamper-Hinson_Thesis_Poster.jpg)
+![Thesis Poster](Kamper-Hinson_Thesis_Poster..jpg)
 
 ---
 
