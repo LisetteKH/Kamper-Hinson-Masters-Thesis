@@ -17,11 +17,6 @@ This thesis presents a structured, six-stage framework for modernizing legacy ca
 
 **Result: Capacity utilization improved from 70% to 90% through structured pipeline modernization.**
 
-## Thesis Poster
-___
-
-![Thesis Poster](Kamper-Hinson_Thesis_Poster..jpg)
-
 ---
 
 ## The Problem
